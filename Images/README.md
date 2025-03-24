@@ -2,40 +2,41 @@
 This image presents a visual representation of artists and their song collaborations to a specific playlist or analysis
 
 ## Top Contributors (3 Songs)
-- **Luke Combs**
-- **Morgan Wallen**
+- **Hank Williams**
+- **Jelly Roll**
 
 ## Major Contributors (2 Songs)
-- **Post Malone**
-- **Justin Moore**
-- **Blake Shelton**
-- **Dolly Parton**
-- **Brooks & Dunn**
-- **Conway Twitty**
+- **Evan Honer**
 
-## Sing Song Contributors (1 Song)
-- **Johnny Cash**
-- **John Denver**
-- **Reba McEntire**
-- **Randy Travis**
+## Song Contributors (1 Song)
+- **Chris Stapleton**
+- **Drayton Farley**
+- **Dylan Gossett**
+- **Garth Brooks**
+- **Flatland Cavalry**
 - **Lainey Wilson**
-- **Josh Meloy**
-- **Gwen Stefani**
+- **Merle Haggard**
+- **Morgan Wallen**
+- **Patsy Cline**
+- **Post Malone**
+- **Reba McEntire**
+- **Sierra Ferrell**
+- **Sturgill Simpson**
+- **The Jordanaires**
+- **Trish Yearwood**
+
 
 <br>
 
 # File Name: Findings
 This slide outlines the Key Findings from this analysis:
-- **Featured Songs**: These songs illustrate how Country Music transcends eras, uniting listeners through enduring themes of love and commitment. Blending Country classics with fresh perspectives, the genre remains relevant and emotionally compelling for each new generation. This section highlighted historic songs such as Johnny Cash’s “Ring of Fire” (1963) alongside modern hits like “Nobody But You” (2018) by Blake Shelton and Gwen Stefani. 
+- **Featured Songs**: These song selections show Country Music’s emotional resonance by bridging legendary classics with modern stories. From Hank Williams’ iconic “Cold, Cold Heart” (1951) to contemporary tracks like Evan Honer’s “Too Far Gone” (2023), each song captures universal themes of hardship and resilience that continue to resonate across generations
 
+- **Featured Artists**:Explore impactful contributions of standout artists such as Evan Honer and Drayton Farley, whose compelling lyrics offer reflection and emotional connection to millions. A visualization of their upcoming 2025 North American tour provides fans with insights into their expanding influence. These artists offer a range of options for fans, whether you’re in Illinois, Missouri, or beyond.
+ 
+- **Sentiment**: The Emotions, Morals, and Mind playlist reveals a powerful emotional leaning, with negative sentiment dominating at 74.5%. However, within this emotional complexity, songs such as “All Around You” and “I’m A Survivor” illuminate moments of optimism and hope. Notably, certain songs such as “American Dreaming” and “I Am Not Okay” underscore how powerful emotional contradictions are woven throughout Country.
 
-- **Featured Artists**: A spotlight was put on iconic performers like Luke Combs and Post Malone, whose influence continues to shape the genre and help millions of listeners heal from a broken heart. A visualization of their 2025 tour schedule reveals their reach across North America and into Canada, connecting with fans through live performances. Whether you’re planning to catch a show in Texas or Toronto, you now have a guide for that! 
-
-
-- **Sentiment**: The Love & Relationships playlist skews slightly negative (57%) but still contains a significant number of positive moments (43%). Despite the dominance of negative lines in certain songs (“Whiskey Glasses”, “Thinkin’ Bout Me”), there are tracks brimming with optimism (“Brand New Man”). Interestingly, love appears in both positive and negative contexts, highlighting the genre’s nuanced portrayal of relationships – where regret is balanced against hope.
-
-- **Song Transitions**: Transitions within the featured songs illustrate how Country Music captures the emotional ebb and flow of relationships. Many songs shift between themes, reinforcing how emotions evolve throughout a song’s storytelling. These transitions add depth to narratives, showing how emotions aren’t 
-static and make each song’s progression a key part of its impact. 
+- **Song Transitions**: Transitions within these featured songs demonstrate Country Music’s unique ability to capture shifting emotional landscapes. These nuanced progressions illustrate how deeply songs can mirror listeners’ own emotional journeys, enriching each track’s storytelling power and impact. This emotional fluidity highlights the genre’s strength in reflecting the complex realities of the struggles we all experience. 
 
 <br>
 
@@ -43,7 +44,7 @@ static and make each song’s progression a key part of its impact.
 This overview outlines key components of the analysis:
 - **Featured Songs**: Highlights 20 Country Songs spanning multiple decades, analyzing their release dates, artists, and lyrical themes related to Love and Relationships
 
-- **Featured Artists**: Showcases artists from legends like Johnny Cash and Dolly Parton to modern stars like Luke Combs and Post Malone, exploring their contributions and 2025 tour plans.
+- **Featured Artists**: Showcases artists from legends like Hank Williams and Merle Haggard to modern stars like Evan Honer and Drayton Farley, exploring their contributions and 2025 tour plans.
 
 - **Sentiment**: Categorizes lyrical sentiment into positive or negative, identifying emotional depth and recurring keywords.
 
@@ -52,7 +53,7 @@ This overview outlines key components of the analysis:
 <br>
 
 # File Name: Playlist
-Table that presents a ranked playlist of 20 Country love songs, including song titles, release dates, and featured artists.
+Table that presents a playlist of 20 Country songs, including song titles, release dates, and featured artists.
 
 <br>
 
@@ -67,11 +68,11 @@ Table categorizing thematic elements in song lyrics, outlining key themes and th
 <br>
 
 # File Name: Timeline
-Visualization showcasing the evolution of Country love songs from 1963 to 2024.
+Visualization showcasing the evolution of Country songs from 1949 to 2024.
 
 <br>
 
 # File Name: Touring Artists
-Tour schedule highlights 2025 concert dates and locations for Luke Combs and Post Malone
+Tour schedule highlights 2025 concert dates and locations for Evan Honer and Drayton Farley
 
 <br>
