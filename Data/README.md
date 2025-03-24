@@ -1,7 +1,7 @@
 The featured dataset includes the following core tabs:
 
 ## 1. Themes: 
-This analysis categorizes themes and definitions, focusing on Love and Relationships.
+This analysis categorizes themes and definitions, focusing on Emotions, Morals, and mind.
 <br> The theme Law and Justice is not present in the playlist.
 
 ## 2. Featured Songs: 
