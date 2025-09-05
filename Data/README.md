@@ -7,15 +7,15 @@ This analysis categorizes themes and definitions, focusing on Emotions, Morals, 
 ## 2. Featured Artists:
 This tab lists the artists included along with the number of songs each artist contributes to the playlist.
 
-## 3. Featured Songs: 
+## 3. Touring Artists:
+This tab outlines concert tour schedules for Evan Honer and Drayton Farley in 2025, listing dates, locations, and the respective performing artist.
+
+## 4. Featured Songs: 
 This tab presents an analysis of song lyrics, focusing on Emotions, Morals, and Mind.
 It includes metrics such as the total number of lines related to Emotions, and whether the lines convey positive or negative sentiment.
 Some songs lean heavily towards negative sentiment (e.g., Too Far Gone, American Dreaming).
 Other songs are overwhelmingly positive (e.g., Nosedive, Thought You Should Know).
 Several songs contain a high proportion of Emotion-related lyrics, indicating a strong thematic focus on Emotions, Morals, and Mind.
-
-## 4. Touring Artists:
-This tab outlines concert tour schedules for Evan Honer and Drayton Farley in 2025, listing dates, locations, and the respective performing artist.
 
 ## 5. Lyrics_in_Context:
 This tab provides a lyric analysis for songs, featuring: <br>
