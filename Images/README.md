@@ -53,7 +53,7 @@ This overview outlines key components of the analysis:
 <br>
 
 # File Name: Playlist
-Table that presents a playlist of 20 Country songs, including song titles, release dates, and featured artists.
+Table that presents a playlist of 20 Country songs, including song titles, release dates, and featured artists
 
 <br>
 
@@ -63,12 +63,12 @@ The closing slide serves as a thank you message and a wrap-up for the presentati
 <br>
 
 # File Name: Themes
-Table categorizing thematic elements in song lyrics, outlining key themes and their descriptions.
+Table categorizing thematic elements in song lyrics, outlining key themes and their descriptions
 
 <br>
 
 # File Name: Timeline
-Visualization showcasing the evolution of Country songs from 1949 to 2024.
+Visualization showcasing the evolution of Country songs from 1949 to 2024
 
 <br>
 
@@ -78,6 +78,6 @@ Tour schedule highlights 2025 concert dates and locations for Evan Honer and Dra
 <br>
 
 # File Name: Touring Numbers
-This table compares Evan Honer's and Drayton Farley's unique tour stops across States, highlighting overlaps in North Carolina, Kentucky, Indiana, Illinois, and Missouri.
+This table compares Evan Honer's and Drayton Farley's unique tour stops across States, highlighting overlaps in North Carolina, Kentucky, Indiana, Illinois, and Missouri
 
 <br>
